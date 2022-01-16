@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(233, 230, 93);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titleBar {
+    text-align: center;
+}
+
+.subTitleBar {
+    text-align: center;
+}
+
+#mainImage {
+    width: auto;
+    height: 200 px;
+    align-self: auto;
+}
